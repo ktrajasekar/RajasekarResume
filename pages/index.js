@@ -16,7 +16,7 @@ export default function Home() {
           <div className="row">
             <div className="col-12 col-sm-3 text-center">
               <img
-                src="/rajasekar-thangavel.jpg"
+                src="/rajasekar-thangavel.png"
                 className="img-fluid profile-image"
                 alt="Rajasekar Thangavel"
               />
