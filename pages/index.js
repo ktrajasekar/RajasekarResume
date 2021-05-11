@@ -130,7 +130,7 @@ export default function Home() {
           </div>
           <div className="work-exp-sec">
             <h2>Tenovia E-Commerce [Jan 2014 - Nov 2014] </h2>
-            <h3>Consultant</h3>
+            <h3>Software Engineer</h3>
             <h4>Roles and Responsibility</h4>
             <ul className="ordered-list">
               <li>
