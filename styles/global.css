@@ -1,0 +1,187 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;600;800&display=swap");
+
+:root {
+  --primary-brand-color: #5b276a;
+  --sec-brand-color: #d6cdda;
+  --light-brand-color: #f8eff3;
+  --thick-bold: 800;
+}
+
+html {
+  font-size: 14px;
+}
+h1,
+h2,
+h3,
+p {
+  color: var(--primary-brand-color);
+}
+
+.container {
+  max-width: 890px !important;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: var(--light-brand-color) !important;
+  color: var(--primary-brand-color) !important;
+}
+
+.tag-line {
+  font-size: 0.9rem;
+  font-style: italic;
+  letter-spacing: 1px;
+}
+
+.resume-header {
+  margin-top: 20px;
+  border-bottom: 2px solid var(--sec-brand-color);
+}
+
+.profile-image {
+  filter: grayscale(100%);
+  transition: all 300ms;
+}
+
+.resume-header:hover .profile-image {
+  filter: grayscale(0);
+  transform: rotate(2deg);
+}
+
+.resume-header h1 {
+  letter-spacing: 2px;
+  color: var(--primary-brand-color);
+  font-weight: var(--thick-bold);
+  margin-bottom: 0;
+}
+
+.resume-description {
+  line-height: 26px;
+  font-size: 1.1rem;
+}
+
+.profile-details-section {
+  margin: 20px 0;
+}
+
+.pd-section-heading {
+  font-size: 1.6rem;
+  font-weight: 800;
+  letter-spacing: 2px;
+}
+
+.font-awesome-icon::after {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 400;
+  vertical-align: middle;
+}
+
+.technical-skill-icon::after {
+  content: "\f51b";
+  float: right;
+  padding-right: 3px;
+  font-weight: 900;
+  opacity: 30%;
+  font-size: 2rem;
+}
+
+.education-icon::after {
+  content: "\f19d";
+  float: right;
+  padding-right: 3px;
+  font-weight: 900;
+  opacity: 30%;
+  font-size: 2rem;
+}
+
+.work-experince-icon::after {
+  content: "\f5fc";
+  padding-right: 3px;
+  font-weight: 900;
+  opacity: 30%;
+  padding-left: 10px;
+}
+
+.bordered-line {
+  border-right: 2px solid var(--sec-brand-color);
+}
+
+.ordered-list {
+  padding: 0;
+  margin: 0;
+}
+
+.ordered-list li {
+  margin: 5px;
+  padding: 0;
+  font-size: 1.1rem;
+  list-style-type: none;
+}
+
+.ordered-list li::before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 800;
+  vertical-align: middle;
+  content: "\f111";
+  padding-right: 10px;
+  font-size: 0.8rem;
+  display: inline-block;
+  color: var(--primary-brand-color);
+}
+
+.edu-section {
+  margin: 20px 0;
+}
+
+.edu-section h3,
+.edu-section p {
+  margin: 0;
+}
+
+.edu-section p.college {
+  font-size: 1.2rem;
+}
+
+.bottom-bordered {
+  margin: 20px 0;
+  border-bottom: 2px solid var(--sec-brand-color);
+}
+
+.work-exp-sec {
+  margin: 20px 0;
+}
+
+.work-exp-sec h2 {
+  font-size: 1.5rem;
+}
+
+.work-exp-sec h3 {
+  font-size: 1.2rem;
+}
+
+.work-exp-sec h4 {
+  font-size: 1rem;
+}
+
+.credits-logo img {
+  max-height: 50px;
+  margin-top: -20px;
+}
+
+.text-right {
+  text-align: right;
+}
+
+@media only screen and (max-width: 600px) {
+  .bordered-line {
+    border: 0;
+  }
+
+  .profile-image {
+    margin: 10px auto;
+  }
+
+  .resume-header h1 {
+    font-size: 1.6rem;
+  }
+}
