@@ -66,7 +66,7 @@ export default function Home() {
               <div className="edu-section">
                 <h3>2004 - 2007</h3>
                 <p className="college">Thaigarajar Polytechnic Colleges </p>
-                <p>Diplomo in Computer Science Engineering</p>
+                <p>Diploma in Computer Science Engineering</p>
               </div>
               <div className="edu-section">
                 <h3>2007 - 2010</h3>
