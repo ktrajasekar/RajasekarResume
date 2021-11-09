@@ -33,7 +33,7 @@ export default function Home() {
               </p>{" "}
               <p>
                 <strong>Specialties</strong> : HTML5, CSS3, VueJS, ReactJS,
-                NodeJS, Angular 2 , EmberJS, Phonegap(Cordova), jQuery, jQuery
+                NodeJS, Angular 6 , EmberJS, Phonegap(Cordova), jQuery, jQuery
                 Mobile, Bootstrap Responsive Framework, Single page application
                 development, LESS, SASS, Javascript, Responsive design,
                 Wordpress Template design, Woocommerce Customization from PSD,
@@ -90,7 +90,7 @@ export default function Home() {
             <ul className="ordered-list">
               <li>Developing cabin management system</li>
               <li>
-                Scratch development using Vue.js(VUEJS), Hybrid mobile
+                Scratch development using ReactJS, Vue.js(VUEJS), Hybrid mobile
                 development, ES6, Websocket communication
               </li>
               <li>Service layer using NodeJS and MongoDB</li>
