@@ -32,7 +32,7 @@ export default function Home() {
                 theme development.
               </p>{" "}
               <p>
-                <strong>Specialties</strong> : HTML5, CSS3, VueJS, ReactJS,
+                <strong>Specialties</strong> : HTML5, CSS3, ReactJS, VueJS,
                 NodeJS, Angular 6 , EmberJS, Phonegap(Cordova), jQuery, jQuery
                 Mobile, Bootstrap Responsive Framework, Single page application
                 development, LESS, SASS, Javascript, Responsive design,
