@@ -26,14 +26,14 @@ export default function Home() {
               <p className="tag-line">Front End Developer</p>
               <p className="resume-description">
                 Front End Developer &amp; Hybrid Mobile Application developer
-                with 8+ years of professional experience, with innovation,
+                with 9+ years of professional experience, with innovation,
                 design, coding standards on the web application and cross
                 platform mobile application. Expertise in shopify ecommerce
                 theme development.
               </p>{" "}
               <p>
-                <strong>Specialties</strong> : HTML5, CSS3, VueJS, ReactJS,
-                NodeJS, Angular 2 , EmberJS, Phonegap(Cordova), jQuery, jQuery
+                <strong>Specialties</strong> : HTML5, CSS3, ReactJS, VueJS,
+                NodeJS, Angular 6 , EmberJS, Phonegap(Cordova), jQuery, jQuery
                 Mobile, Bootstrap Responsive Framework, Single page application
                 development, LESS, SASS, Javascript, Responsive design,
                 Wordpress Template design, Woocommerce Customization from PSD,
@@ -84,7 +84,20 @@ export default function Home() {
             WORK EXPERIENCE
           </h2>
           <div className="work-exp-sec">
-            <h2>HCL Technologies, Chennai - Current Company</h2>
+            <h2>L3Harris™ Commercial Aviation, Crawley, United Kingdom </h2>
+            <h3>React Developer - HCL Contractor</h3>
+            <h4>Roles and Responsibility</h4>
+            <ul className="ordered-list">
+              <li>Developing  software 2.0 for pilot simulation system</li>
+              <li>
+                Scratch development using ReactJS, Redux
+              </li>
+              <li>Responsive web design using HTML5, CSS3</li>
+              <li>SAFe methodology for daily activities</li>
+            </ul>
+          </div>
+          <div className="work-exp-sec">
+            <h2>HCL Technologies, Chennai </h2>
             <h3>Technical Lead</h3>
             <h4>Roles and Responsibility</h4>
             <ul className="ordered-list">
