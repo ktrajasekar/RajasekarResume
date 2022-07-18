@@ -5,7 +5,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>
-          Rajasekar T - Front End Developer and Hybrid Mobile Application
+          Rajasekar Thangavel - Front End Developer and Hybrid Mobile Application
           Developer Chennai, India
         </title>
         <link rel="icon" href="/favicon.ico" />
@@ -32,7 +32,7 @@ export default function Home() {
                 theme development.
               </p>{" "}
               <p>
-                <strong>Specialties</strong> : HTML5, CSS3, ReactJS, VueJS,
+                <strong>Specialties</strong> : HTML5, CSS3, VueJS, ReactJS,
                 NodeJS, Angular 6 , EmberJS, Phonegap(Cordova), jQuery, jQuery
                 Mobile, Bootstrap Responsive Framework, Single page application
                 development, LESS, SASS, Javascript, Responsive design,
@@ -66,7 +66,7 @@ export default function Home() {
               <div className="edu-section">
                 <h3>2004 - 2007</h3>
                 <p className="college">Thaigarajar Polytechnic Colleges </p>
-                <p>Diplomo in Computer Science Engineering</p>
+                <p>Diploma in Computer Science Engineering</p>
               </div>
               <div className="edu-section">
                 <h3>2007 - 2010</h3>
@@ -103,7 +103,7 @@ export default function Home() {
             <ul className="ordered-list">
               <li>Developing cabin management system</li>
               <li>
-                Scratch development using Vue.js(VUEJS), Hybrid mobile
+                Scratch development using ReactJS, Vue.js(VUEJS), Hybrid mobile
                 development, ES6, Websocket communication
               </li>
               <li>Service layer using NodeJS and MongoDB</li>
