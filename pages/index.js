@@ -5,8 +5,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>
-          Rajasekar Thangavel - Front End Developer
-          Developer Chennai, India
+          Rajasekar Thangavel - Front End Developer & Hybrid Mobile Application Developer Chennai, India
         </title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
