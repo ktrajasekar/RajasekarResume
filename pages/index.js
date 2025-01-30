@@ -53,7 +53,7 @@ export default function Home() {
                 <li>Javascript</li>
                 <li>HTML5 &amp; CSS3</li>
                 <li>JS Frameworks : ReactJS, VueJS &amp; Angular</li>
-                <li>Mobile Framework: Ionic, Cordova</li>
+                <li>Mobile Framework:ReactNative, Ionic, Cordova</li>
                 <li>Cloud : AWS, DigitalOcean</li>
                 <li>Backend : NodeJS, Express, Python (Avid Learner)</li>
               </ul>
@@ -82,6 +82,20 @@ export default function Home() {
           <h2 className="pd-section-heading work-experince-icon font-awesome-icon">
             WORK EXPERIENCE
           </h2>
+          <div className="work-exp-sec">
+            <h2>HCLTech, Chennai, Indian </h2>
+            <h3>Senior Technical Lead - React Typescript</h3>
+            <h4>Roles and Responsibility</h4>
+            <ul className="ordered-list">
+              <li>Enabling aeroplane maintenance application to enable/disable features, check faults for Inflight systems - Airbus and Boeing </li>
+              <li>End user - Aereplane Maintenance Engineer </li>
+              <li>
+                Scratch development using ReactJS, Context API
+              </li>
+              <li>Responsive web design using HTML5, CSS3 to support all tablets, desktops</li>
+              <li>SAFe methodology for daily activities</li>
+            </ul>
+          </div>
           <div className="work-exp-sec">
             <h2>L3Harris™ Commercial Aviation, Crawley, United Kingdom </h2>
             <h3>React Developer - HCL Contractor</h3>
