@@ -181,7 +181,7 @@ export default function Home() {
       <footer>
         <div class="row">
           <div className="col">
-            <p>Rajasekar Thangavel &copy; 2021</p>
+            <p>Rajasekar Thangavel &copy; 2025 - <a href="https://github.com/ktrajasekar/RajasekarResume" target="_blank">GitHub Codebase</a></p>
           </div>
           <div className="col credits-logo text-right">
             <a href="https://nextjs.org/" target="_blank">
