@@ -50,7 +50,7 @@ export default function Home() {
                 TECHNICAL SKILLS
               </h2>
               <ul className="ordered-list">
-                <li>Javascript</li>
+                <li>Javascript, Typescript</li>
                 <li>HTML5 &amp; CSS3</li>
                 <li>JS Frameworks : ReactJS, VueJS &amp; Angular 17</li>
                 <li>Mobile Framework:ReactNative, Ionic, Cordova</li>
