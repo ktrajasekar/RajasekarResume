@@ -29,10 +29,10 @@ export default function Home() {
                 design, coding standards on the web application and cross
                 platform mobile application. Expertise in shopify ecommerce
                 theme development.
-              </p>{" "}
+              </p>
               <p>
                 <strong>Specialties</strong> : HTML5, CSS3, ReactJS, VueJS,
-                NodeJS, Angular 6 , EmberJS, Phonegap(Cordova), jQuery, jQuery
+                NodeJS, Angular 17 , EmberJS, Phonegap(Cordova), jQuery, jQuery
                 Mobile, Bootstrap Responsive Framework, Single page application
                 development, LESS, SASS, Javascript, Responsive design,
                 Wordpress Template design, Woocommerce Customization from PSD,
@@ -52,7 +52,7 @@ export default function Home() {
               <ul className="ordered-list">
                 <li>Javascript</li>
                 <li>HTML5 &amp; CSS3</li>
-                <li>JS Frameworks : ReactJS, VueJS &amp; Angular</li>
+                <li>JS Frameworks : ReactJS, VueJS &amp; Angular 17</li>
                 <li>Mobile Framework:ReactNative, Ionic, Cordova</li>
                 <li>Cloud : AWS, DigitalOcean</li>
                 <li>Backend : NodeJS, Express, Python (Avid Learner)</li>
@@ -83,7 +83,7 @@ export default function Home() {
             WORK EXPERIENCE
           </h2>
           <div className="work-exp-sec">
-            <h2>HCLTech, Chennai, Indian </h2>
+            <h2>HCLTech, Chennai, India</h2>
             <h3>Senior Technical Lead - React Typescript</h3>
             <h4>Roles and Responsibility</h4>
             <ul className="ordered-list">
