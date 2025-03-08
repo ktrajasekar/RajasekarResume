@@ -4,14 +4,14 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "NODE_OPTIONS=--openssl-legacy-provider next build next build",
-    "start": "NODE_OPTIONS=--openssl-legacy-provider next build next start"
+    "build": "next build",
+    "start": "next start"
   },
   "dependencies": {
     "bootstrap": "^5.0.0-beta3",
-    "next": "^10.2.0",
-    "react": "17.0.1",
+    "next": "^15.2.1",
+    "react": "18.2.0",
     "react-bootstrap": "^1.5.2",
-    "react-dom": "17.0.1"
+    "react-dom": "18.2.0"
   }
 }

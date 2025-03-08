@@ -174,12 +174,12 @@ export default function Home() {
               </li>
             </ul>
           </div>
-          <div class="bottom-bordered"></div>
+          <div className="bottom-bordered"></div>
         </section>
       </main>
 
       <footer>
-        <div class="row">
+        <div className="row">
           <div className="col">
             <p>Rajasekar Thangavel &copy; 2025 - <a href="https://github.com/ktrajasekar/RajasekarResume" target="_blank">GitHub Codebase</a></p>
           </div>
